@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import WisdomGeekComponent from './Greeting';
-import ReactMemoComponent from './MemoComponent';
+import ReactMemoComponent from './Memo';
 
 class App extends Component {
   state = {
